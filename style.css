@@ -1,0 +1,10 @@
+/* ESTILOS GENERALES: Aplican a toda la página */
+body {
+font-family: 'Arial', sans-serif; /* Tipografía principal
+*/
+line-height: 1.6; /* Espaciado entre líneas */
+margin: 0; /* Elimina márgenes predeterminados */
+padding: 0; /* Elimina relleno predeterminado */
+background-color: #a1a1a1; /* Color de fondo */
+color: #222; /* Color de texto principal */
+}
